@@ -1,1 +1,2 @@
 sing-box rule-set compile /tmp/rules/ruleset-dreame.json --output /tmp/rules/ruleset-dreame.srs
+sing-box rule-set compile /etc/sing-box/rules/kinopub.json --output /etc/sing-box/rules/kinopub.srs
