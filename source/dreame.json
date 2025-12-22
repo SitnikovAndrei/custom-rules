@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "iot.dreame.tech",
+        "aliyuncs.com",
+        "cloudedge360.com",
+        "mearicloud.com",
+        "oceanengine.com",
+        "myqcloud.com",
+        "api.xiaomi.com",
+        "googleapis.com",
+        "facebook.com"
+      ]
+    }
+  ]
+}
