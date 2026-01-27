@@ -3,16 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-      	"kinopub.online",
-      	"kino.pub",
-      	"mos-gorsud.site",
-      	"mos-gorsud.co",
-      	"pushbr.com",
-      	"zencdn.net",
-      	"cdn2site.com",
-        "cdn32.lol",
-        "cdn4t.store",
-        "cdntogo.net",
+        "kinopub.online",
+        "kino.pub",
+        "mos-gorsud.site",
         "cdn-service.space"
       ]
     }
